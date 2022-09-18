@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
-
+// TODO 
+// fix conditions with values BETWEEN (i+1)
 using namespace std;
 
 int main() {

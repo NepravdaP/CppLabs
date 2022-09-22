@@ -73,7 +73,7 @@ int main() {
         {
             cout<<b[i]<<" ";
         }
-        cout<<"]";
+        cout<<"]"<<endl;
         
         
         break;
